@@ -1,0 +1,19 @@
+{
+  "name": "restaurante",
+  "version": "1.0.0",
+  "description": "API del sistema de gestion de restaurantes",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenGomez0160/Restaurante.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenGomez0160/Restaurante/issues"
+  },
+  "homepage": "https://github.com/KenGomez0160/Restaurante#readme"
+}
